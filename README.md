@@ -1,7 +1,7 @@
 formValidation.js
 =================
 
-formValidation.js is lite weight javascript form checker.
+formValidation.js is lightweight javascript form checker.
 
 ### Demo
 
